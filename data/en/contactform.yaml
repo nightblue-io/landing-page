@@ -1,6 +1,6 @@
 action: /form.php
 placeholders: false
-fields: 
+fields:
 - name: title
   input_type: html
   label: <h3>Tell us a bit about yourself</h3>

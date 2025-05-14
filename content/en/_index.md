@@ -1,22 +1,23 @@
 ---
 title: Home
 ---
+
 {{< brick_intro >}}
 
-# Build your next Hugo website with stackable content bricks
+## Vortex: Your AI-powered onboarding platform
 
-![](/uploads/illustrations/cuate/assets.svg)
 
 Hugobricks is a free website theme for Hugo. It makes building Hugo websites child's play due to its stackable (LEGO-like) content bricks. How about this 'intro brick' with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!
 
 {{< button "Get started for free" "/get-started/" >}}
 
 {{< /brick_intro >}}
+
 {{< brick_image2 >}}
 
-## What’s included in Hugobricks?
+## What’s included in Vortex?
 
-![](/uploads/illustrations/cuate/responsive.svg)
+![](/uploads/vortex-intro-03.png)
 
 Hugobricks is a comprehensive starter theme that includes everything you need to get started with your Hugo project. As all the Wordpress theme builders say: This is the last theme you will ever need. Included are:
 
@@ -27,18 +28,20 @@ Hugobricks is a comprehensive starter theme that includes everything you need to
 - SEO-optimized for better search engine rankings
 
 {{< /brick_image2 >}}
-{{< brick_image >}}
 
-## What bricks are available?
+<!-- {{< brick_image >}} -->
 
-![](/uploads/illustrations/cuate/version-control.svg)
+<!-- ## What bricks are available? -->
 
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related. 
+<!-- ![](/uploads/illustrations/cuate/version-control.svg) -->
 
-We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you!
+<!-- We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.  -->
 
-{{< /brick_image >}}
-{{< brick_reviews >}}{{< /brick_reviews >}}
+<!-- We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you! -->
+
+<!-- {{< /brick_image >}} -->
+<!-- {{< brick_reviews >}}{{< /brick_reviews >}} -->
+
 {{< brick_features >}}
 
 ## The Ultimate Hugo theme
@@ -88,11 +91,12 @@ Extremely fast. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corpori
 Start with the end result. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
 
 {{< /brick_features >}}
+
 {{< brick_prices >}}
 
 ## Our friendly pricing
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+To be done.
 
 ---
 
@@ -140,11 +144,12 @@ Get exceptional value and cost savings with our complete products suite.
 ### _$_**75**/month
 
 - All other features plus:
-- High priority support 
+- High priority support
 - Theme adjustments
 - Custom bricks (on request)
 
 [Contact us](/get-started/)
 
 {{< /brick_prices >}}
+
 {{< brick_cta >}}{{< /brick_cta >}}
