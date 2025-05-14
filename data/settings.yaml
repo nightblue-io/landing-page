@@ -2,7 +2,7 @@ favicon_image: /uploads/favicon.ico
 color_name:
 sticky_header: true
 dark_header: false
-dark_footer: true
+dark_footer: false
 customcursor: false
 intersectionobserver: true
 filter_has_numbers: true

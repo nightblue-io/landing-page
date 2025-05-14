@@ -47,7 +47,7 @@ menuitems:
     link: /docs/
   - title: Examples
     link: /demo-paragliding/
-    items: 
+    items:
       - title: Paragliding
         link: /demo-paragliding/
       - title: Hiking
@@ -58,6 +58,6 @@ menuitems:
         link: /demo-pos/
 cta:
   active: true
-  title: Get started
+  title: Sign me up!
   link: /get-started/
 # preheader: open Mon-Fri from 9-5

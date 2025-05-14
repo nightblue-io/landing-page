@@ -4,12 +4,11 @@ title: Home
 
 {{< brick_intro >}}
 
-## Vortex: Your AI-powered onboarding platform
+## [Vortex](/about/): AI-powered onboarding that adapts to every new hire.
 
+Transform your employee onboarding from a time-consuming chore into an intelligent, personalized experience. [Vortex](/about/), our AI-powered platform ensures every new team member feels supported, prepared, and productive from Day One.
 
-Hugobricks is a free website theme for Hugo. It makes building Hugo websites child's play due to its stackable (LEGO-like) content bricks. How about this 'intro brick' with a clear call-to-action? Stack it on top of some image bricks and a pricing table and build a complete website in seconds!
-
-{{< button "Get started for free" "/get-started/" >}}
+{{< button "I'm interested!" "/get-started/" >}}
 
 {{< /brick_intro >}}
 
@@ -44,9 +43,9 @@ Hugobricks is a comprehensive starter theme that includes everything you need to
 
 {{< brick_features >}}
 
-## The Ultimate Hugo theme
+## Welcome new hires smarter, not harder.
 
-Hugobricks covers all components you would like to have at hand. It is a power engine for your web oriented projects. It has excellent performance in all categories.
+Elevate your new employee experience with cutting-edge AI. We automate the mundane, personalize the critical, and provide actionable insights, freeing you to focus on building a thriving team.
 
 ---
 

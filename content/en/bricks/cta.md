@@ -1,10 +1,10 @@
 ---
 title: cta
 ---
-## Get started with Hugobricks today!
+## Learn more about Vortex
 
-Experience the future of web development with Hugo and stackable content bricks. Build lightning-fast static sites with ease and flexibility.
+Vortex is in active development. Join our waiting list and we will keep you posted about its progress and availability.
 
-{{< button2 "Get started now" "/get-started/" >}}
+{{< button2 "Sign me up!" "/get-started/" >}}
 
 ![](/uploads/illustrations/cuate/server.svg)
