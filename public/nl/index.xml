@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on </title>
+    <link>http://localhost:1313/nl/</link>
+    <description>Recent content in Home on </description>
+    <generator>Hugo</generator>
+    <language>nl</language>
+    <atom:link href="http://localhost:1313/nl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cta</title>
+      <link>http://localhost:1313/nl/bricks/cta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/bricks/cta/</guid>
+      <description>&lt;h2 id=&#34;start-vandaag-nog-met-hugobricks&#34;&gt;Start vandaag nog met Hugobricks!&lt;/h2&gt;&#xA;&lt;p&gt;Ervaar de toekomst van webontwikkeling met Hugo en stapelbare content bricks. Bouw razendsnelle flexibele statische sites met het grootste gemak.&lt;/p&gt;&#xA;&lt;a href=&#34;http://localhost:1313/nl/&#34; class=&#34;button secondary&#34; title=&#34;Start nu direct&#34;&gt;Start nu direct&lt;/a&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/illustrations/cuate/server.svg&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>features</title>
+      <link>http://localhost:1313/nl/bricks/features/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/bricks/features/</guid>
+      <description>&lt;h2 id=&#34;het-ultieme-hugo-thema&#34;&gt;Het ultieme Hugo-thema&lt;/h2&gt;&#xA;&lt;p&gt;Hugobricks omvat alle componenten die u bij de hand wilt hebben. Het is een krachtige motor voor uw webgerichte projecten. Het heeft uitstekende prestaties in alle categorieën.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;omvat-alle-componenten&#34;&gt;Omvat alle componenten&lt;/h3&gt;&#xA;&lt;p&gt;We streven ernaar de volgende bouwstenen te leveren: intro, titel, afbeelding, cta, contact, team, getuigenissen, over, prijzen, producten, product, usps, statistieken, galerij, offerte, veelgestelde vragen, merken, video, blogs, post, gerelateerd.&lt;/p&gt;&#xA;&lt;p&gt;&amp;mdash; &lt;img src=&#34;http://localhost:1313/img/icons/material-symbols/200/rounded/performance_max.svg&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;99-google-lighthouse-score&#34;&gt;99+ Google Lighthouse-score&lt;/h3&gt;&#xA;&lt;p&gt;Razendsnelle website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum is niet meer gebruikelijk, maar anders dan in het verleden, tot nu toe, in een bepaalde tijd, of in een bepaalde tijd.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>intro</title>
+      <link>http://localhost:1313/nl/bricks/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/bricks/intro/</guid>
+      <description>&lt;h1 id=&#34;the-ultimate-theme-you-need-to-start-your-hugo-website&#34;&gt;The Ultimate Theme You Need To Start Your Hugo Website&lt;/h1&gt;&#xA;&lt;p&gt;Hugobricks is a free website theme built with Hugo and vanilla CSS, providing everything you need to jumpstart your Hugo website and save valuable time.&lt;/p&gt;&#xA;&lt;a href=&#34;http://localhost:1313/get-started/&#34; class=&#34;button&#34; title=&#34;Get started for free&#34;&gt;Get started for free&lt;/a&gt;&#xD;&#xA;&#xD;&#xA;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/brick_intro.png&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>map</title>
+      <link>http://localhost:1313/nl/bricks/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/bricks/map/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/uploads/map.png&#34; alt=&#34;&#34; class=&#34;is_svg&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Maps&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;contact-us&#34;&gt;Contact us&lt;/h2&gt;&#xA;&lt;p&gt;Usecue BV&lt;br&gt;&#xA;Soetendaal 7&lt;br&gt;&#xA;1081BL Amsterdam&lt;br&gt;&#xA;The Netherlands&lt;/p&gt;&#xA;&#xA;&lt;ul class=&#34;buttons&#34;&gt;&lt;li&gt;&lt;a href=&#34;tel:&amp;#43;31618518928&#34; class=&#34;button icon&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/phone.svg&#34; alt=&#34;&amp;#43;31 618 51 89 28&#34; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&#34;mailto:joost@vdschee.nl&#34; class=&#34;button icon&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/email.svg&#34; alt=&#34;joost@vdschee.nl&#34; /&gt;&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Reviews</title>
+      <link>http://localhost:1313/nl/bricks/reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nl/bricks/reviews/</guid>
+      <description>&lt;h2 id=&#34;wat-gebruikers-zeggen-over-hugobricks&#34;&gt;Wat gebruikers zeggen over Hugobricks&lt;/h2&gt;&#xA;&lt;p&gt;U hoeft ons niet op ons woord te geloven - luister liever naar onze tevreden gebruikers! Bekijk hieronder enkele getuigenissen om te zien wat men zoal over Hugobricks zegt.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <title>Webshop | NightBlue </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="
+    Webshop
+This is a demo of the webshop. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.
+    
+	
+        
+        Buy me a coffee
+            
+                A perfect coffee in the morning absolutely makes my day. Buy me a small one for a good start or a big one to keep going all day!
+...">
+
+    <link rel="canonical" href="http://localhost:1313/webshop/" />
+    <link rel="shortcut icon" href="/uploads/favicon.ico"><link href="/css/style.css?version=2025-05-14%2012%3a26%3a38.581800087%20%2b0900%20JST%20m%3d%2b2654.848053052" rel="stylesheet">
+
+  </head>
+  <body id="top" class=" filename_webshop">
+    <script>      
+      function updateSize() {
+        if(window.innerWidth< 1100 ) document.body.classList.add('mobilemenu');
+        else document.body.classList.remove('mobilemenu');
+      }
+      updateSize();
+      window.addEventListener("resize", updateSize);
+    </script>
+    <div class="innerbody"><header class="">
+      <div class="container has_cta" onclick="document.body.classList.remove('menushown');">
+        <div>
+          <a href="/#top" class="logo">
+    
+        <img src="/uploads/nightblue-logo-01.png" alt="NightBlue logo" />
+    
+</a>
+        </div>
+        <div class="nav">
+          <nav class="navnav">
+            <ul>
+              
+                <li class=" haschildren"><a href="/headers/" onclick="navClick(event, this);">Headers</a>
+                  
+                  <ul>
+                    
+                      <li class=""><a href="/header-with-title/">Title</a></li>
+                    
+                      <li class=""><a href="/header-with-content/">Content block</a></li>
+                    
+                      <li class=""><a href="/header-dark/">Dark preheader</a></li>
+                    
+                      <li class=""><a href="/header-darker/">Dark nav</a></li>
+                    
+                      <li class=""><a href="/header-transparent/">Transparent nav</a></li>
+                    
+                  </ul>
+                  
+                </li>
+              
+                <li class=" haschildren"><a href="/about/" onclick="navClick(event, this);">Pages</a>
+                  
+                  <ul>
+                    
+                      <li class=""><a href="/about/">About</a></li>
+                    
+                      <li class=""><a href="/basic/">Basic page 1</a></li>
+                    
+                      <li class=""><a href="/basic2/">Basic page 2</a></li>
+                    
+                      <li class=""><a href="/images/">Images</a></li>
+                    
+                      <li class=""><a href="/team/">Our team</a></li>
+                    
+                      <li class=""><a href="/services/">Services</a></li>
+                    
+                      <li class=""><a href="/blog/">Blog</a></li>
+                    
+                      <li class=""><a href="/contact/">Contact us</a></li>
+                    
+                      <li class=""><a href="/faq/">F.A.Q.</a></li>
+                    
+                      <li class="active"><a href="/webshop/">Webshop</a></li>
+                    
+                      <li class=""><a href="/404.html">404 Page</a></li>
+                    
+                  </ul>
+                  
+                </li>
+              
+                <li class=""><a href="/elements/" onclick="navClick(event, this);">Elements</a>
+                  
+                </li>
+              
+                <li class=""><a href="/docs/" onclick="navClick(event, this);">Docs</a>
+                  
+                </li>
+              
+                <li class=" haschildren"><a href="/demo-paragliding/" onclick="navClick(event, this);">Examples</a>
+                  
+                  <ul>
+                    
+                      <li class=""><a href="/demo-paragliding/">Paragliding</a></li>
+                    
+                      <li class=""><a href="/demo-hiking/">Hiking</a></li>
+                    
+                      <li class=""><a href="/demo-poulterer/">Poulterer</a></li>
+                    
+                      <li class=""><a href="/demo-pos/">POS software</a></li>
+                    
+                  </ul>
+                  
+                </li>
+              
+            </ul>
+          </nav>
+        </div>
+        <div><a href="/cart">
+            <img src="/img/shopping-cart.svg" alt="Shopping cart icon" class="black_2_textDark" />
+            <span class="itemcount">0</span>
+          </a><a href="/search">
+            <img src="/img/search.svg" alt="Search icon" class="black_2_textDark" />
+          </a><div class="navnav languages">
+            <ul>
+              <li class="haschildren">
+                <a href="/en/">EN</a>
+                <ul>
+					
+					
+					
+					<li><a href="/nl/">Nederlands</a></li>
+					
+                </ul>
+              </li>
+            </ul>
+          </div>
+          <a href="/get-started/" class="button smaller">Get started</a>
+		      
+        </div>
+        <button id="togglemenu" onclick="event.stopPropagation(); document.body.classList.add('menushown');"><span class="black_2_textDark">Toggle menu</span></button>
+        <script>
+          function navClick(event,el) {
+            var li = el.parentElement;
+            if(document.body.classList.contains('mobilemenu')) {
+              if (li.classList.contains('haschildren')) {
+                var ul = li.querySelector('ul');
+                if(ul) {
+                  if(window.getComputedStyle(ul).maxHeight == '0px') {
+                    var uls = document.querySelectorAll('nav ul ul');
+                    uls.forEach(function(u) {
+                      u.style.height = '0px';
+                      u.style.maxHeight = '0px';
+                    });
+                    ul.style.height = 'auto';
+                    ul.style.maxHeight = '700px';
+                    event.preventDefault();
+                    event.stopPropagation();
+                  }
+                }
+              }
+            }
+          }
+        </script>
+    </header>
+    <section class="webshop-brick">
+    <div class="container small" style="text-align: center;"><h1 id="webshop">Webshop</h1>
+<p>This is a demo of the webshop. In ultricies vel enim vel pulvinar. Quisque finibus sem velit, sed consequat mi ullamcorper vitae. Proin finibus tristique sollicitudin.</p></div>
+    <div class="container" style="padding-top: 3rem;">
+	<ul class="contentitems grid posts products" data-pagesize="3">
+        
+        <li class="item"><a href="/webshop/buy-me-a-coffee/"><div class="img"><img src="/uploads/products/coffee/1_hu_223034f6f5f4a2f8.jpg" alt="Buy me a coffee" style="cursor: pointer;" onclick="document.location.href='\/webshop\/buy-me-a-coffee\/';" /></div></a><h3>Buy me a coffee</h3>
+            <div class="summary">
+                <p>A perfect coffee in the morning absolutely makes my day. Buy me a small one for a good start or a big one to keep going all day!
+...</p>
+                <p><a href="/webshop/buy-me-a-coffee/" class="button ghost smaller">Read more</a></p>
+            </div>
+        </li>
+        
+        <li class="item"><a href="/webshop/buy-me-a-beer/"><div class="img"><img src="/uploads/products/beer/5_hu_e57b8953fc2bd2b0.jpg" alt="Buy me a beer" style="cursor: pointer;" onclick="document.location.href='\/webshop\/buy-me-a-beer\/';" /></div></a><h3>Buy me a beer</h3>
+            <div class="summary">
+                <p>I like beer a lot! IPA, Guinness, Stout, craft beers&hellip; and I love to try new ones. Buy me half-a-pint to get going or a pint to get a good buzz.
+...</p>
+                <p><a href="/webshop/buy-me-a-beer/" class="button ghost smaller">Read more</a></p>
+            </div>
+        </li>
+        
+        <li class="item"><a href="/webshop/buy-me-chocolates/"><div class="img"><img src="/uploads/products/chocolates/1_hu_369e008cd9ce879c.jpg" alt="Buy me chocolates" style="cursor: pointer;" onclick="document.location.href='\/webshop\/buy-me-chocolates\/';" /></div></a><h3>Buy me chocolates</h3>
+            <div class="summary">
+                <p>Buy me a fancy box of chocolates&hellip; not for me, but for my wife. Giving her chocolates will most certainly buy me extra programming time in my Linux powered man cave.
+...</p>
+                <p><a href="/webshop/buy-me-chocolates/" class="button ghost smaller">Read more</a></p>
+            </div>
+        </li>
+        
+        <li class="placeholder"></li>
+        <li class="placeholder"></li>
+    </ul>
+    </div>
+</section>
+
+
+<footer class="dark">
+      <div>
+        <div class="container">
+          <div>
+            <a href="/#top" class="logo">
+    
+        <div class="">
+            <img src="/uploads/favicon.ico" alt="NightBlue logo" class="inline black_2_textDark" />
+            <div>
+                <span>NightBlue</span>
+                
+            </div>
+        </div>
+    
+</a>
+          </div>
+          <div>
+            <ul>
+              
+                <li><a href="/about/">About</a></li>
+              
+                <li><a href="/elements/">Elements</a></li>
+              
+                <li><a href="/privacy-policy/">Privacy policy</a></li>
+              
+            </ul>  
+          </div>
+          <div>
+            <ul class="buttons social"><li><a href="https://facebook.com" class="button icon"><img src="/img/facebook.svg" alt="Facebook" /></a></li><li><a href="https://twitter.com" class="button icon"><img src="/img/twitter.svg" alt="Twitter" /></a></li><li><a href="https://joinmastodon.org" class="button icon"><img src="/img/mastodon.svg" alt="Mastodon" /></a></li><li><a href="https://instagram.com" class="button icon"><img src="/img/instagram.svg" alt="Instagram" /></a></li></ul>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div class="container">
+		      <div>This theme is open source. More info on <a href="https://github.com/jhvanderschee/hugobricks" target="_blank" rel="noopener">Github</a>!</div><div>
+            <select aria-label="Change language" onchange="if(this.value) document.location.href = '/'+this.value+'/';"><option>Change language</option><option value="en" disabled>English</option><option value="nl" >Nederlands</option></select></div>
+          </div></div>
+  		</div>
+		</footer>
+
+		
+      <script type="text/javascript" src="/js/stickyheader.js"></script>
+    
+    <script type="text/javascript" src="/js/faq.js"></script>
+    <script type="text/javascript" src="/js/lightbox.js"></script>
+		<link rel="stylesheet" href="/css/lightbox.css">
+    
+    
+      <script type="text/javascript" src="/js/intersectionobserver.js"></script>
+      <link rel="stylesheet" href="/css/intersectionobserver.css">
+    <script type="text/javascript" src="/js/webshop.js"></script>
+    <script type="text/javascript">
+      updateCartCount();
+      populateCart();
+    </script></div>
+  </body>
+</html>

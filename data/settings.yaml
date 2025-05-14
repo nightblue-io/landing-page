@@ -1,0 +1,13 @@
+favicon_image: /uploads/favicon.ico
+color_name:
+sticky_header: true
+dark_header: false
+dark_footer: true
+customcursor: false
+intersectionobserver: true
+filter_has_numbers: true
+page_size: 3
+show_all_services: true
+preheader:
+  active: false
+  is_light: false
