@@ -7,7 +7,7 @@ customcursor: false
 intersectionobserver: true
 filter_has_numbers: true
 page_size: 3
-show_all_services: true
+show_all_services: false
 preheader:
   active: false
   is_light: false

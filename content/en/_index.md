@@ -4,9 +4,9 @@ title: Home
 
 {{< brick_intro >}}
 
-## [Vortex](/about/): AI-powered onboarding that adapts to every new hire.
+## Automate the PM grind, reclaim 8 hours a week.
 
-Transform your employee onboarding from a time-consuming chore into an intelligent, personalized experience. [Vortex](/about/), our AI-powered platform ensures every new team member feels supported, prepared, and productive from Day One.
+Tuned specifically for the APAC market, [**Freya**](/about/), our AI PM assistant, handles the mundane, reducing cost by an average of **$15K+ per PM annually**, and freeing up **15-20%** of your team's time to drive innovation and deliver faster.
 
 {{< button "I'm interested!" "/get-started/" >}}
 
@@ -14,17 +14,17 @@ Transform your employee onboarding from a time-consuming chore into an intellige
 
 {{< brick_image2 >}}
 
-## What’s included in Vortex?
+## What’s included in Freya?
 
 ![](/uploads/vortex-intro-03.png)
 
-Hugobricks is a comprehensive starter theme that includes everything you need to get started with your Hugo project. As all the Wordpress theme builders say: This is the last theme you will ever need. Included are:
+**Freya**, our AI-powered PM Assistant, is designed to give your team back its most valuable asset: **time**. We automate the repetitive, so you can accelerate the strategic.
 
-- 10+ Pre-build pages
-- 99+ Google Pagespeed Score
-- Built with Hugo and CSS variables for easy styling
-- Fully responsive on all devices
-- SEO-optimized for better search engine rankings
+- Conversational AI PM Assistant
+- Automated reporting suite
+- Agile process automation
+- Integration to PM tools
+- Continuous AI enhancement
 
 {{< /brick_image2 >}}
 
@@ -43,51 +43,51 @@ Hugobricks is a comprehensive starter theme that includes everything you need to
 
 {{< brick_features >}}
 
-## Welcome new hires smarter, not harder.
+## Focus your PMs on impact, not admin.
 
-Elevate your new employee experience with cutting-edge AI. We automate the mundane, personalize the critical, and provide actionable insights, freeing you to focus on building a thriving team.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Covers all components
-
-We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.
-
----
-
-![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### 99+ Google Lighthouse score
-
-Lightning fast website. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Themeable through CSS variables
-
-Easily themeable. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/devices.svg)
-### Fully responsive on all devices
-
-Works on every screen. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
-
----
-
-![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Super fast builds and deploys
-
-Extremely fast. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Shift your team from reactive admin to proactive planning, customer research, and innovation.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### 10+ pre-build pages
+### Conversational AI PM copilot
 
-Start with the end result. Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed.
+Freya transcribes your meetings in real-time, generates concise summaries with key decisions, and automatically identifies actionable tasks. Ensure everyone is aligned and accountable, making every meeting productive.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/performance_max.svg)
+### Effortless Reporting & Docs
+
+Freya pulls data from your connected tools to create initial drafts of status reports, PRD sections, or user stories. Achieve consistency and speed up your documentation workflow significantly.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/timer.svg)
+### Autonomous Task Orchestrator
+
+Keep projects moving smoothly without constant manual follow-up. Freya sends reminders for pending tasks, updates PM tools based on meeting outcomes or communications, and helps ensure critical tasks don't fall through the cracks.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/devices.svg)
+### Contextual Project Q&A
+
+Get instant answers about project status, timelines, scope, or decisions without digging through documents or interrupting team members. Freya summarizes long email threads or chat discussions on demand, providing quick clarity – invaluable for fast-paced or multi-lingual APAC teams.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Proactive Risk Radar
+
+Shift from reactive problem-solving to proactive risk mitigation. By analyzing project data, task dependencies, and progress updates, Freya identifies potential bottlenecks or risks before they escalate, allowing your team to address them strategically and keep projects on track.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Unified Tool Connector
+
+Freya works where you work. It seamlessly integrates with popular global PM tools like Jira, ClickUp, Asana, Slack, and Teams, as well as essential APAC platforms such as DingTalk and Lark/Feishu, creating a central intelligence layer across your existing ecosystem.
 
 {{< /brick_features >}}
 
@@ -95,12 +95,10 @@ Start with the end result. Lorem ipsum dolor sit amet consectetur adipisicing el
 
 ## Our friendly pricing
 
-To be done.
-
 ---
 
-**budget**
-### Open-source
+**startup**
+### Basic
 
 Full-featured theme/page builder to create super fast & amazing website
 
@@ -115,9 +113,9 @@ Full-featured theme/page builder to create super fast & amazing website
 
 ---
 
-**most popular**
+**recommended**
 
-### Hosted
+### Pro
 
 Everything in one toolkit – We host your website on our top-notch infrastructure.
 
@@ -139,8 +137,6 @@ Everything in one toolkit – We host your website on our top-notch infrastructu
 ### Enterprise
 
 Get exceptional value and cost savings with our complete products suite.
-
-### _$_**75**/month
 
 - All other features plus:
 - High priority support

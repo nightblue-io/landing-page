@@ -1,9 +1,18 @@
+/*
 @font-face {
     font-display: swap;
     font-family: 'Signika';
     font-style: normal;
     font-weight: 700;
     src: url('/fonts/signika-v20-latin-700.woff2') format('woff2');
+}
+*/
+@font-face {
+    font-display: swap;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: url('/fonts/Montserrat-Regular.woff2') format('woff2');
 }
 @font-face {
     font-display: swap;
@@ -21,6 +30,6 @@
 }
 
 :root {
-    --fontTitles: 'Signika', sans-serif;
-    --fontBody: 'Heebo', sans-serif;
+    --fontTitles: 'Montserrat', sans-serif;
+    --fontBody: 'Montserrat', sans-serif;
 }

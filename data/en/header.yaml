@@ -3,59 +3,67 @@ logo_image: /uploads/nightblue-logo-01-transparent.png
 dark_header: false
 mobile_view_width: 1100
 menuitems:
-  - title: Headers
-    link: /headers/
+  - title: Products
+    link: /#top
     items:
-      - title: Title
-        link: /header-with-title/
-      - title: Content block
-        link: /header-with-content/
-      - title: Dark preheader
-        link: /header-dark/
-      - title: Dark nav
-        link: /header-darker/
-      - title: Transparent nav
-        link: /header-transparent/
-  - title: Pages
-    link: /about/
-    items:
-      - title: About
-        link: /about/
-      - title: Basic page 1
-        link: /basic/
-      - title: Basic page 2
-        link: /basic2/
-      - title: Images
-        link: /images/
-      - title: Our team
-        link: /team/
-      - title: Services
-        link: /services/
-      - title: Blog
-        link: /blog/
-      - title: Contact us
-        link: /contact/
-      - title: F.A.Q.
-        link: /faq/
-      - title: Webshop
-        link: /webshop/
-      - title: 404 Page
-        link: /404.html
-  - title: Elements
-    link: /elements/
+      - title: Freya
+        link: /#top
+      - title: AI HR Assistant (Future)
+        link: /#top
+      - title: AI Finance Assistant (Future)
+        link: /#top
+      - title: AI Sales Assistant (Future)
+        link: /#top
+      - title: AI Marketing Assistant (Future)
+        link: /#top
+      # - title: Dark nav
+      #   link: /header-darker/
+      # - title: Transparent nav
+      #   link: /header-transparent/
+  # - title: Solutions
+  #   link: /#top
+  #   items:
+  #     - title: About
+  #       link: /about/
+  #     - title: Basic page 1
+  #       link: /basic/
+  #     - title: Basic page 2
+  #       link: /basic2/
+  #     - title: Images
+  #       link: /images/
+  #     - title: Our team
+  #       link: /team/
+  #     - title: Services
+  #       link: /services/
+  #     - title: Blog
+  #       link: /blog/
+  #     - title: Contact us
+  #       link: /contact/
+  #     - title: F.A.Q.
+  #       link: /faq/
+  #     - title: Webshop
+  #       link: /webshop/
+  #     - title: 404 Page
+  #       link: /404.html
+  # - title: Elements
+  #   link: /elements/
   - title: Docs
     link: /docs/
-  - title: Examples
-    link: /demo-paragliding/
-    items:
-      - title: Paragliding
-        link: /demo-paragliding/
-      - title: Hiking
-        link: /demo-hiking/
-      - title: Poulterer
-        link: /demo-poulterer/
-      - title: POS software
-        link: /demo-pos/
+  # - title: Examples
+  #   link: /demo-paragliding/
+  #   items:
+  #     - title: Paragliding
+  #       link: /demo-paragliding/
+  #     - title: Hiking
+  #       link: /demo-hiking/
+  #     - title: Poulterer
+  #       link: /demo-poulterer/
+  #     - title: POS software
+  #       link: /demo-pos/
+  - title: Company
+    link: /about/
+  - title: Contact Us
+    link: /contact/
 cta:
   active: true
   title: Sign me up!

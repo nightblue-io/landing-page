@@ -1,11 +1,11 @@
 logo_image: /uploads/nightblue-logo-01-transparent.png
 menuitems:
-  - title: About
+  - title: Docs
+    link:  /docs/
+  - title: Company
     link:  /about/
-  - title: Elements
-    link:  /elements/
-  - title: Privacy policy
-    link:  /privacy-policy/
+  - title: Contact Us
+    link:  /contact/
 socials:
   - title: Facebook
     link: https://facebook.com
@@ -19,4 +19,4 @@ socials:
   - title: Instagram
     link: https://instagram.com
     logo_image: /img/instagram.svg
-footer_text: This theme is open source. More info on [Github](https://github.com/jhvanderschee/hugobricks)!
+footer_text: This theme is open source. See on [Github](https://github.com/jhvanderschee/hugobricks).
