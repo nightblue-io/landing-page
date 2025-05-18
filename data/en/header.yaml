@@ -1,4 +1,4 @@
-logo_image: /uploads/nightblue-logo-01-transparent.png
+logo_image: /uploads/freya-logo-03-transparent.png
 # logo_subtitle: Your Enterprise AI Assistant
 dark_header: false
 mobile_view_width: 1100
@@ -7,7 +7,7 @@ menuitems:
     link: /#top
     items:
       - title: Freya
-        link: /#top
+        link: /freya/
       - title: AI HR Assistant (Future)
         link: /#top
       - title: AI Finance Assistant (Future)

@@ -1,22 +1,24 @@
-logo_image: /uploads/nightblue-logo-01-transparent.png
+logo_image: /uploads/freya-logo-03-transparent.png
 menuitems:
   - title: Docs
     link:  /docs/
   - title: Company
     link:  /about/
+  - title: Terms and conditions
+    link:  /terms-and-conditions/
   - title: Contact Us
     link:  /contact/
 socials:
+  - title: LinkedIn
+    link: /#top
+    logo_image: /img/linkedin.svg
   - title: Facebook
-    link: https://facebook.com
+    link: /#top
     logo_image: /img/facebook.svg
   - title: Twitter
-    link: https://twitter.com
+    link: /#top
     logo_image: /img/twitter.svg
   - title: Mastodon
-    link: https://joinmastodon.org
+    link: /#top
     logo_image: /img/mastodon.svg
-  - title: Instagram
-    link: https://instagram.com
-    logo_image: /img/instagram.svg
 footer_text: This theme is open source. See on [Github](https://github.com/jhvanderschee/hugobricks).
