@@ -6,7 +6,9 @@ title: About
 
 {{< breadcrumbs >}}
 
-![NB](/uploads/nightblue-logo-01-transparent.png)
+<!-- ![NB](/uploads/nightblue-logo-01-transparent.png) -->
+
+![NB](/uploads/nightblue-logo-02-transparent.png)
 
 The company behind **Freya**.
 
