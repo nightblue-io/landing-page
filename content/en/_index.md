@@ -8,7 +8,7 @@ title: Home
 
 Tuned specifically for the APAC market, [**Freya**](/about/), our AI PM assistant, handles the mundane, reducing cost by an average of **$15K+ per PM annually**, and freeing up **15-20%** of your team's time to drive innovation and deliver faster.
 
-{{< button "I'm interested!" "/get-started/" >}}
+{{< button "I'm interested!" "https://forms.gle/ZCyWgoRHF1antEKS7" >}}
 
 {{< /brick_intro >}}
 
@@ -110,7 +110,7 @@ Full-featured theme/page builder to create super fast & amazing website
 - Regular updates
 - Bug fixes & security patches
 
-[Get started](/get-started/)
+[Get started](https://forms.gle/ZCyWgoRHF1antEKS7)
 
 ---
 
@@ -129,7 +129,7 @@ Everything in one toolkit – We host your website on our top-notch infrastructu
 - Form handling + notifications
 - CMS system for editors
 
-[Yes, pick me!](/get-started/)
+[Yes, pick me!](https://forms.gle/ZCyWgoRHF1antEKS7)
 
 ---
 
@@ -144,7 +144,7 @@ Get exceptional value and cost savings with our complete products suite.
 - Theme adjustments
 - Custom bricks (on request)
 
-[Contact us](/get-started/)
+[Contact us](https://forms.gle/ZCyWgoRHF1antEKS7)
 
 {{< /brick_prices >}}
 

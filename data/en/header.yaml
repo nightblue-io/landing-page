@@ -63,9 +63,9 @@ menuitems:
   - title: Company
     link: /about/
   - title: Contact Us
-    link: /contact/
+    link: https://forms.gle/ZCyWgoRHF1antEKS7
 cta:
   active: true
   title: Sign me up!
-  link: /get-started/
+  link: https://forms.gle/ZCyWgoRHF1antEKS7
 # preheader: open Mon-Fri from 9-5
