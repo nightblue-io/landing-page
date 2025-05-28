@@ -1,19 +1,19 @@
-- name: Hajime Hirose
-  function: Co-founder
-  image: /uploads/hajime-2.jpeg
-  description: With over 22 years of experience in the mobile and Internet industry, Hajime is a seasoned technology entrepreneur and a certified cloud practitioner. He is the CEO of Alphaus, a VC-backed tech startup on a mission to simplify cloud financial management for enterprises and SMBs.
-  email: hajime@nightblue.io
-  phone:
-  linkedin: https://www.linkedin.com/in/hajimehirose/
-  website:
 - name: Chew Esmero
-  function: Co-founder
+  function: Founder
   image: /uploads/chew.png
   description: Chew is a seasoned technologist with over 20 years of experience from multiple domains spanning embedded, device drivers, low-level systems, desktop, mobile, cloud computing, distributed systems, databases, data analytics, and AI. He is the CTO of Alphaus.
   email: chew@nightblue.io
   phone:
   linkedin: https://www.linkedin.com/in/chew-esmero-b0613289/
   website: https://flowerinthenight.com/
+- name: Hajime Hirose
+  function: Advisor
+  image: /uploads/hajime-2.jpeg
+  description: With over 22 years of experience in the mobile and Internet industry, Hajime is a seasoned technology entrepreneur and a certified cloud practitioner. He is the CEO of Alphaus, a VC-backed tech startup on a mission to simplify cloud financial management for enterprises and SMBs.
+  email: hajime@nightblue.io
+  phone:
+  linkedin: https://www.linkedin.com/in/hajimehirose/
+  website:
 # - name: Madogg Kabul
 #   function: Keyboard Guru
 #   image: /uploads/photos/avatars/3.jpeg
