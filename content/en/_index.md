@@ -18,7 +18,7 @@ Tuned specifically for the APAC market, [**Freya**](/about/), our AI PM assistan
 
 ![](/uploads/vortex-intro-03.png)
 
-**Freya**, our AI-powered PM Assistant, is designed to give your team back its most valuable asset: **time**. We automate the repetitive, so you can accelerate the strategic.
+**Freya**, our AI-powered PM Assistant, is designed to give your team back its most valuable asset: **TIME**. We automate the repetitive, so you can accelerate the strategic.
 
 - Conversational AI PM Assistant
 - Automated reporting suite
@@ -101,14 +101,14 @@ Freya works where you work. It seamlessly integrates with popular global PM tool
 **startup**
 ### Essential
 
-Full-featured theme/page builder to create super fast & amazing website
+Good for startups and small teams.
 
 ### _$_**100**/month
 
-- Hugobricks theme/code
-- All available bricks
-- Regular updates
-- Bug fixes & security patches
+- Automation for 1 team
+- Up to 10 members per team
+- Daily, weekly, and monthly updates
+- Up to 10M tokens available per month
 
 [Get started](https://forms.gle/ZCyWgoRHF1antEKS7)
 
@@ -118,16 +118,14 @@ Full-featured theme/page builder to create super fast & amazing website
 
 ### Professional
 
-Everything in one toolkit – We host your website on our top-notch infrastructure.
+Good for SMBs/SMEs with multiple teams.
 
 ### _$_**500**/month
 
-- Hugobricks theme/code
-- All available bricks
-- Regular updates
-- Bug fixes & security patches
-- Form handling + notifications
-- CMS system for editors
+- Automation for up to 5 teams
+- Up to 20 members per team
+- 50M worth of tokens per month
+- Charges to either AWS or GCP Marketplaces
 
 [Yes, pick me!](https://forms.gle/ZCyWgoRHF1antEKS7)
 
@@ -141,8 +139,7 @@ Get exceptional value and cost savings with our complete products suite.
 
 - All other features plus:
 - High priority support
-- Theme adjustments
-- Custom bricks (on request)
+- Deploy to your own environment
 
 [Contact us](https://forms.gle/ZCyWgoRHF1antEKS7)
 
