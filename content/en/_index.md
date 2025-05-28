@@ -125,7 +125,7 @@ Good for SMBs/SMEs with multiple teams.
 - Automation for up to 5 teams
 - Up to 20 members per team
 - 50M worth of tokens per month
-- Charges to either AWS or GCP Marketplaces
+- Charges through AWS/GCP Marketplaces
 
 [Yes, pick me!](https://forms.gle/ZCyWgoRHF1antEKS7)
 
