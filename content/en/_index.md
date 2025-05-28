@@ -107,8 +107,8 @@ Good for startups and small teams.
 
 - Automation for 1 team
 - Up to 10 members per team
-- Daily, weekly, and monthly updates
-- Up to 10M tokens available per month
+- Daily/weekly/monthly updates
+- 10M tokens available per month
 
 [Get started](https://forms.gle/ZCyWgoRHF1antEKS7)
 
