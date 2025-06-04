@@ -91,64 +91,64 @@ Freya works where you work. It seamlessly integrates with popular global PM tool
 
 {{< /brick_features >}}
 
-{{< brick_prices >}}
+<!-- {{< brick_prices >}} -->
 
-## Pricing
+<!-- ## Pricing -->
 
 
----
+<!-- --- -->
 
-**startup**
-### Essential
+<!-- **startup** -->
+<!-- ### Essential -->
 
-Good for startups and small teams.
+<!-- Good for startups and small teams. -->
 
-### _$_**100**/month
+<!-- ### _$_**100**/month -->
 
-- Automation for 1 team
-- Up to 10 members per team
-- Daily/weekly/monthly updates
-- 10M tokens available per month
+<!-- - Automation for 1 team -->
+<!-- - Up to 10 members per team -->
+<!-- - Daily/weekly/monthly updates -->
+<!-- - 10M tokens available per month -->
 
-[Get started](https://forms.gle/ZCyWgoRHF1antEKS7)
+<!-- [Get started](https://forms.gle/ZCyWgoRHF1antEKS7) -->
 
----
+<!-- --- -->
 
-**recommended**
+<!-- **recommended** -->
 
-### Professional
+<!-- ### Professional -->
 
-Good for SMBs/SMEs with multiple teams.
+<!-- Good for SMBs/SMEs with multiple teams. -->
 
-### _$_**500**/month
+<!-- ### _$_**500**/month -->
 
-- Automation for up to 5 teams
-- Up to 20 members per team
-- 50M worth of tokens per month
-- Charges through AWS/GCP Marketplaces
+<!-- - Automation for up to 5 teams -->
+<!-- - Up to 20 members per team -->
+<!-- - 50M worth of tokens per month -->
+<!-- - Charges through AWS/GCP Marketplaces -->
 
-[Yes, pick me!](https://forms.gle/ZCyWgoRHF1antEKS7)
+<!-- [Yes, pick me!](https://forms.gle/ZCyWgoRHF1antEKS7) -->
 
----
+<!-- --- -->
 
-**everything**
+<!-- **everything** -->
 
-### Enterprise
+<!-- ### Enterprise -->
 
-Get exceptional value and cost savings with our complete products suite.
+<!-- Get exceptional value and cost savings with our complete products suite. -->
 
-- All other features plus:
-- High priority support
-- Deploy to your own environment
+<!-- - All other features plus: -->
+<!-- - High priority support -->
+<!-- - Deploy to your own environment -->
 
-[Contact us](https://forms.gle/ZCyWgoRHF1antEKS7)
+<!-- [Contact us](https://forms.gle/ZCyWgoRHF1antEKS7) -->
 
-{{< /brick_prices >}}
+<!-- {{< /brick_prices >}} -->
 
-{{< brick_intro >}}
+<!-- {{< brick_intro >}} -->
 
-All our plans include **enterprise-grade security** and a strong commitment to **data privacy**, ensuring your project information is always protected. You'll also benefit from continuous AI model improvements and new feature releases, along with access to our comprehensive knowledge base.
+<!-- All our plans include **enterprise-grade security** and a strong commitment to **data privacy**, ensuring your project information is always protected. You'll also benefit from continuous AI model improvements and new feature releases, along with access to our comprehensive knowledge base. -->
 
-{{< /brick_intro >}}
+<!-- {{< /brick_intro >}} -->
 
 {{< brick_cta >}}{{< /brick_cta >}}
