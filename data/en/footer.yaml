@@ -2,8 +2,8 @@ logo_image: /uploads/freya-logo-03-transparent.png
 menuitems:
   - title: Docs
     link:  /docs/
-  # - title: Blog
-  #   link:  /blog/
+  - title: Blog
+    link:  /blog/
   - title: Company
     link:  /about/
   - title: 'T&C'
