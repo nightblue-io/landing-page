@@ -60,6 +60,8 @@ menuitems:
   #       link: /demo-poulterer/
   #     - title: POS software
   #       link: /demo-pos/
+  # - title: Blog
+  #   link: /blog/
   - title: Company
     link: /about/
   - title: Contact Us
