@@ -1,6 +1,6 @@
 ---
 title: Introducing Freya
-image: /uploads/introducing-freya.png
+image: /uploads/blog-00001-introducing-freya.png
 date: 2025-06-02
 tags:
   - product
