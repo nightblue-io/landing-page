@@ -33,6 +33,6 @@ Most of the report generation capabilities of these tools are within the bounds 
 - Contextual project/product Q&A,
 - and many more!
 
-In terms of pricing, no, we haven't finalized that yet. You can use Freya **for free** for now **in exchange for your feedback**. If you think it's crap, please tell us. If you have a specific feature in mind that can make this tool useful to you, by all means please tell us, and we'll do the work.
+In terms of pricing, no, we haven't finalized that yet. You can use Freya **for free** for now **in exchange for your feedback**. If you think it's crap, [please tell us](https://forms.gle/ZCyWgoRHF1antEKS7). If you have a specific feature in mind that can make this tool useful to you, by all means [please tell us](https://forms.gle/ZCyWgoRHF1antEKS7), and we'll do the work.
 
 Try it out [here](https://prism-chi-lovat.vercel.app/).
