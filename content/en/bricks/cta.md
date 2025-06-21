@@ -5,6 +5,6 @@ title: cta
 
 **Freya is in active development**. Join our waiting list and we will keep you posted about its progress and availability.
 
-{{< button2 "Sign me up!" "https://forms.gle/ZCyWgoRHF1antEKS7" >}}
+{{< button2 "Let me try!" "https://prism-chi-lovat.vercel.app/" >}}
 
 ![](/uploads/illustrations/cuate/server.svg)

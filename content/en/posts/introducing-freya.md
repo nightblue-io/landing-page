@@ -53,6 +53,6 @@ It’s not finished. There are bugs. The UI is basic. The integration with Googl
 
 But it’s already saving me and my team a few hours a week. That's enough for me to think it might be useful to others. I'm looking for feedback from other teams who feel this same pain.
 
-If you're interested, ping us [ here ](https://forms.gle/ZCyWgoRHF1antEKS7).
+If you're interested, try it out [here](https://prism-chi-lovat.vercel.app/).
 
 Let us know what you think. Especially if it breaks.

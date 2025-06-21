@@ -8,7 +8,7 @@ title: Home
 
 Tuned specifically for the APAC market, [**Freya**](/about/), our AI PM assistant, handles the mundane, reducing cost by an average of **$15K+ per PM annually**, and freeing up **15-20%** of your team's time to drive innovation and deliver faster.
 
-{{< button "I'm interested!" "https://forms.gle/ZCyWgoRHF1antEKS7" >}}
+{{< button "I'm interested!" "https://prism-chi-lovat.vercel.app/" >}}
 
 {{< /brick_intro >}}
 
