@@ -106,7 +106,7 @@ If you have any questions about these Terms or the Service, please contact us at
 
 NightBlue Inc.  
 Tokyo, Japan  
-info@nightblue.io  
+root@nightblue.io  
 https://nightblue.io/
 
 {{< /brick_wide >}}
