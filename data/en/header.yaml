@@ -8,14 +8,14 @@ menuitems:
     items:
       - title: Freya
         link: /freya/
-      - title: AI HR Assistant (Future)
-        link: /#top
-      - title: AI Finance Assistant (Future)
-        link: /#top
-      - title: AI Sales Assistant (Future)
-        link: /#top
-      - title: AI Marketing Assistant (Future)
-        link: /#top
+      # - title: AI HR Assistant (Future)
+      #   link: /#top
+      # - title: AI Finance Assistant (Future)
+      #   link: /#top
+      # - title: AI Sales Assistant (Future)
+      #   link: /#top
+      # - title: AI Marketing Assistant (Future)
+      #   link: /#top
       # - title: Dark nav
       #   link: /header-darker/
       # - title: Transparent nav

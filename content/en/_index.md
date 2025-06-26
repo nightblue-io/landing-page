@@ -16,78 +16,78 @@ Tuned specifically for the APAC market, [**Freya**](/about/), our AI PM assistan
 
 ## What’s included in Freya?
 
-![](/uploads/vortex-intro-03.png)
+![](/uploads/freya-intro-04.png)
 
 **Freya**, our AI-powered PM Assistant, is designed to give your team back its most valuable asset: **TIME**. We automate the repetitive, so you can accelerate the strategic.
 
-- Conversational AI PM Assistant
-- Automated reporting suite
+- Automated reports for team and members
+- Slack AI assistant
 - Agile process automation
-- Integration to PM tools
-- Continuous AI enhancement
 
 {{< /brick_image2 >}}
 
-<!-- {{< brick_image >}} -->
+{{< brick_image >}}
 
-<!-- ## What bricks are available? -->
+## More impact, less admin.
 
-<!-- ![](/uploads/illustrations/cuate/version-control.svg) -->
+![](/uploads/blog-00004-freya-data.png)
 
-<!-- We aim to provide the following bricks: intro, title, image, cta, contact, team, testimonials, about, pricing, products, product, usps, stats, gallery, quote, faqs, brands, video, blogs, post, related.  -->
+Shift your team from reactive admin to proactive planning, customer research, and innovation.
 
-<!-- We are constantly adding bricks and shortcodes to this theme. Are you missing a brick or a shortcode? [Let us know](/contact/)! We will build it for you! -->
+- Onboarding assistant
+- Tech support assistant
 
-<!-- {{< /brick_image >}} -->
+{{< /brick_image >}}
+
 <!-- {{< brick_reviews >}}{{< /brick_reviews >}} -->
 
 {{< brick_features >}}
 
-## Focus your PMs on impact, not admin.
+<!-- ## Focus your PMs on impact, not admin. -->
 
-Shift your team from reactive admin to proactive planning, customer research, and innovation.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
-### Conversational AI PM assistant
-
-Freya transcribes your meetings in real-time, generates concise summaries with key decisions, and automatically identifies actionable tasks. Ensure everyone is aligned and accountable, making every meeting productive.
+<!-- Shift your team from reactive admin to proactive planning, customer research, and innovation. -->
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/performance_max.svg)
-### Effortless reporting & docs
+### Automated team reports
 
-Freya pulls data from your connected tools to create initial drafts of status reports, PRD sections, or user stories. Achieve consistency and speed up your documentation workflow significantly.
+Freya generates daily, weekly, and monthly reports for team and members from Slack chats, GitHub activities, and information from your project management tools.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_fix.svg)
+### Slack AI assistant
+
+Freya can summarize long, even multilingual threads in Slack, including attachments, minimizing time-consuming rereads. Can be used as an ondemand translator.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/timer.svg)
-### Autonomous task orchestrator
+### Agile process automation
 
-Keep projects moving smoothly without constant manual follow-up. Freya sends reminders for pending tasks, updates PM tools based on meeting outcomes or communications, and helps ensure critical tasks don't fall through the cracks.
+Keep projects moving smoothly without constant manual follow-up. Freya sends reminders for pending tasks, updates PM tools based on real-time activities.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/design_services.svg)
+### Onboarding assistant
+
+Freya automates the generation of onboarding programs, prepares schedules, tracks progress, updates related documents, and sends reminders to new members. Provides reports at the end of the onboarding process.
+
+---
+
+![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
+### Tech support assistant
+
+Freya can improve the handling of recurring, easy-to-close tickets by providing quick answers and resolutions for common issues raised by CS, Sales, Marketing, and Tech Support teams, reducing engineering interruptions and accelerating response times.
 
 ---
 
 ![](/img/icons/material-symbols/200/rounded/devices.svg)
 ### Contextual project Q&A
 
-Get instant answers about project status, timelines, scope, or decisions without digging through documents or interrupting team members. Freya summarizes long email threads or chat discussions on demand, providing quick clarity – invaluable for fast-paced or multi-lingual APAC teams.
-
----
-
-![](/img/icons/material-symbols/200/rounded/design_services.svg)
-### Proactive risk radar
-
-Shift from reactive problem-solving to proactive risk mitigation. By analyzing project data, task dependencies, and progress updates, Freya identifies potential bottlenecks or risks before they escalate, allowing your team to address them strategically and keep projects on track.
-
----
-
-![](/img/icons/material-symbols/200/rounded/auto_awesome_mosaic.svg)
-### Unified tool connector
-
-Freya works where you work. It seamlessly integrates with popular global PM tools like Jira, ClickUp, Asana, Slack, and Teams, as well as essential APAC platforms such as DingTalk and Lark/Feishu, creating a central intelligence layer across your existing ecosystem.
+Get instant answers about project status, timelines, scope, or decisions without digging through documents or interrupting team members. Freya summarizes long email threads or chat discussions on demand.
 
 {{< /brick_features >}}
 
